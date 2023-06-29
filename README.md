@@ -7,9 +7,16 @@ or words that would describe me:
 The protagonist, A Tech nerd🧑‍💻, Talks in methaphors, optimistic, Nocturnal🦉, Social Animal .
 
 And ***a developer*** .
-<BR>
 
-## skills🤪:
+<br>
+<BR>
+<img align='left' src="asta.gif" height="50%" width="60%" >
+<div align='right'>
+
+## skills🤪:&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
+
+
+
  **Domain** | **Texh stack**
  --------|:--------: 
   ***frontend*** | <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40px">
@@ -18,9 +25,10 @@ And ***a developer*** .
   ***lang*** | <img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" width="40px"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40px"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40px">
 
 
-
+</div>
 
 <br>
+
 
 <details>
   <summary>HAcktober Fest 2022</summary>
@@ -29,8 +37,7 @@ And ***a developer*** .
   
 
 </details>
-
-
+<br>
  <img src="https://s4.gifyu.com/images/handshake.gif" width="50px">
 
 ## 🔗 Connect with me:
@@ -40,3 +47,17 @@ And ***a developer*** .
     <a href="https://www.instagram.com/rrahulol/" target="_blank"><img alt="Instagram" width="35px" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png"></a> &nbsp&nbsp&nbsp
     <a href="mailto:rahulsinghhh2312@gmail.com" target="_blank"><img alt="Gmail" width="35px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a>&nbsp&nbsp&nbsp
 
+
+<br>
+
+<br>
+<br>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulsingh2312&show_icons=true&locale=en&layout=compact" alt="rahulsingh2312" /></p>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulsingh2312&show_icons=true&locale=en" alt="rahulsingh2312" /></p>
+
+<br>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rahulsingh2312&label=Profile%20views&color=0e75b6&style=flat" alt="rahulsingh2312" /> </p>
