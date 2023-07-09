@@ -10,7 +10,7 @@ And ***a developer*** .
 
 <br>
 <BR>
-<img align='left' src="asta.gif" height="50%" width="60%" >
+<img align='left' src="asta.webp" height="50%" width="60%" >
 <div align='right'>
 
 ## skills🤪:&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
