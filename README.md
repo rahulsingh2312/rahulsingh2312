@@ -10,7 +10,7 @@ And ***a developer*** .
 
 <br>
 <BR>
-<img align='left' src="https://im2.ezgif.com/tmp/ezgif-2-5a7f1a52f4.webp" height="50%" width="60%" >
+<img align='left' src="https://im2.ezgif.com/tmp/ezgif-2-5a7f1a52f4.webp" height="50%" width="50%" >
 <div align='right'>
 
 ## skills🤪:&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
