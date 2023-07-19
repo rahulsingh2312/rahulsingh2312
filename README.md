@@ -22,8 +22,8 @@ And ***a developer*** .
   ***frontend*** | <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40px">
   ***backend*** | <img src="image.png" width="65px"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="40px">
   ***database*** | <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" width="40px">
-  ***lang*** | <img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" width="40px"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40px"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40px">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  ***lang*** | <img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" width="40px"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40px"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40px">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40px">
+
 
 
 </div>
