@@ -2,30 +2,30 @@
 
 ##  <img src="image-1.png" width="50px"> 
 ## About me 🧙‍♂️ : 
-or words that would describe me:
-
-The protagonist, A Tech nerd🧑‍💻, Talks in methaphors, optimistic, Nocturnal🦉, Social Animal .
-
+Hiiii I'm A Tech nerd and a learner 🧑‍💻, i usually talk in methaphors and javascript, im really optimistic and overconfident (ya i use that as a strength idk) , I'm Nocturnal🦉 and i'm bit delusional and sometimes I'm a Social Animal 
 And ***a developer*** .
+* ">.<" Know about my experiences at [LinkedIn](https://www.linkedin.com/in/rahulsinghhh2312/)
 
 <br>
 <BR>
-<img align='left' src="asta.webp" height="50%" width="60%" >
-<div align='right'>
-
-## skills🤪:&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
+<img align='left' src="./jijij.gif" width="100%" >
 
 
+.<br>
 
- **Domain** | **Texh stack**
- --------|:--------: 
-  ***frontend*** | <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40px">
-  ***backend*** | <img src="image.png" width="65px"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="40px">
-  ***database*** | <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" width="40px">
-  ***lang*** | <img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" width="40px"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40px"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40px">
+<br>
+<br>
 
 
-</div>
+<h1 align="left">  &nbsp; &nbsp; &nbsp; &nbsp;skills🤪:</h1>
+<p align="left">  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="./express.jpeg" alt="express" width="70" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="image.png" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a></p>
+
+
+
+ 
+
+
 
 <br>
 
@@ -37,15 +37,16 @@ And ***a developer*** .
   
 
 </details>
-<br>
- <img src="https://s4.gifyu.com/images/handshake.gif" width="50px">
 
-## 🔗 Connect with me:
+
+## 🔗 Connect with me  <img src="https://s4.gifyu.com/images/handshake.gif" width="50px">
 
 <br>
     <a href="https://www.linkedin.com/in/rahulsinghhh2312/" target="_blank"><img alt="LinkedIn" width="35px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></a> &nbsp&nbsp&nbsp
     <a href="https://www.instagram.com/rrahulol/" target="_blank"><img alt="Instagram" width="35px" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png"></a> &nbsp&nbsp&nbsp
     <a href="mailto:rahulsinghhh2312@gmail.com" target="_blank"><img alt="Gmail" width="35px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a>&nbsp&nbsp&nbsp
+    <a href="https://www.hackerrank.com/rahulsinghhh2312" target="_blank"><img alt="Instagram" width="35px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"></a> &nbsp&nbsp&nbsp
+    
 
 
 <br>
@@ -53,7 +54,7 @@ And ***a developer*** .
 <br>
 <br>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulsingh2312&show_icons=true&locale=en&layout=compact" alt="rahulsingh2312" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulsingh2312&show_icons=true&locale=en&layout=compact" alt="rahulsingh2312" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulsingh2312&show_icons=true&locale=en" alt="rahulsingh2312" /></p>
 
