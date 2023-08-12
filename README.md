@@ -2,7 +2,7 @@
 
 ##  <img src="image-1.png" width="50px"> 
 ## About me 🧙‍♂️ : 
-Hiiii I'm A Tech nerd and a learner 🧑‍💻, i usually talk in methaphors and javascript, im really optimistic and overconfident (ya i use that as a strength idk) , I'm Nocturnal🦉 and i'm bit delusional and sometimes I'm a Social Animal 
+Hiiii I'm A Tech nerd and a learner 🧑‍💻, i usually talk in methaphors and javascript,who is really optimistic and overconfident (ya i use that as a strength idk) , I'm Nocturnal🦉 and a bit delusional and sometimes I'm a Social Animal 
 And ***a developer*** .
 * ">.<" Know about my experiences at [LinkedIn](https://www.linkedin.com/in/rahulsinghhh2312/)
 
