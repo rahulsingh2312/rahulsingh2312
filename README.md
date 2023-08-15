@@ -2,9 +2,17 @@
 
 ##  <img src="image-1.png" width="50px"> 
 ## About me 🧙‍♂️ : 
+- 🤾 I’m currently learning **React Native , DSA**
+
+- 💬 Talk with me about **why that thing actually exists**
+
+ * ">.<" Know about my experiences at [LinkedIn](https://www.linkedin.com/in/rahulsinghhh2312/)
+
+and
+
 Hiiii I'm A Tech nerd and a learner 🧑‍💻, i usually talk in methaphors and javascript,who is really optimistic and overconfident (ya i use that as a strength idk) , I'm Nocturnal🦉 and a bit delusional and sometimes I'm a Social Animal 
 And ***a developer*** .
-* ">.<" Know about my experiences at [LinkedIn](https://www.linkedin.com/in/rahulsinghhh2312/)
+
 
 <br>
 <BR>
