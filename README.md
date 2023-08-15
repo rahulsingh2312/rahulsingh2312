@@ -28,13 +28,13 @@ And ***a developer*** .
 <br>
 
 
-<details>
-  <summary>HAcktober Fest 2022</summary>
+
+  <h3>HAcktober Fest 2022</h3>
 
 [![@rahulsingh2312's Holopin board](https://holopin.me/rahulsingh2312)](https://holopin.io/@rahulsingh2312)
   
 
-</details>
+
 
 
 ## 🔗 Connect with me  <img src="https://s4.gifyu.com/images/handshake.gif" width="50px">
