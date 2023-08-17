@@ -2,7 +2,7 @@
 
 ##  <img src="image-1.png" width="50px"> 
 ## About me 🧙‍♂️ : 
-- 🤾 I’m currently learning ** DSA**
+- 🤾 I’m currently learning **DSA**
 
 - 💬 Talk with me about **why that thing actually exists**
 
