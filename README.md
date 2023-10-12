@@ -37,9 +37,9 @@ And ***a developer*** .
 
 
 
-  <h3>HAcktober Fest 2022</h3>
+  <h3>HAcktober Fest</h3>
 
-[![@rahulsingh2312's Holopin board](https://holopin.me/rahulsingh2312)](https://holopin.io/@rahulsingh2312)
+[![An image of @rahulsingh2312's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahulsingh2312)](https://holopin.io/@rahulsingh2312)
   
 
 
