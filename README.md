@@ -10,7 +10,7 @@
 
 and
 
-Hiiii I'm A Tech nerd and a learner 🧑‍💻, i usually talk in methaphors and javascript,who is really optimistic and overconfident (ya i use that as a strength idk) , I'm Nocturnal🦉 and a bit delusional and sometimes I'm a Social Animal 
+Hiiii not A Tech nerd and a learner 🧑‍💻, i usually talk in methaphors and javascript,who is really optimistic and overconfident (ya i use that as a strength idk) , I'm Nocturnal🦉 and a bit delusional and sometimes I'm a Social Animal 
 And ***a developer*** .
 
 
