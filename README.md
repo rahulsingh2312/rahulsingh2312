@@ -52,19 +52,30 @@ And ***a developer*** .
     <a href="https://www.instagram.com/rrahulol/" target="_blank"><img alt="Instagram" width="35px" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png"></a> &nbsp&nbsp&nbsp
     <a href="mailto:rahulsinghhh2312@gmail.com" target="_blank"><img alt="Gmail" width="35px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a>&nbsp&nbsp&nbsp
     <a href="https://www.hackerrank.com/rahulsinghhh2312" target="_blank"><img alt="Instagram" width="35px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"></a> &nbsp&nbsp&nbsp
+
+
+
     
 
+  <br>
+  <br>
+  <br/>
+  
+  <table style="margin-top: 30">
+  <tr> 
+    <td  >
+      <img src="https://spotify-github-profile.vercel.app/api/view?uid=j77cre3stokoqsdtgsnhiybt8&cover_image=true&theme=default&show_offline=false&background_color=9141ac&interchange=false" alt="rahulsingh2312" />
+        </td>
+    <td  >
+      &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulsingh2312&show_icons=true&locale=en" alt="rahulsingh2312" />
+    </td>
+  </tr>
+</table>
 
-<br>
 
-<br>
-<br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulsingh2312&show_icons=true&locale=en&layout=compact" alt="rahulsingh2312" /></p>
-<br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulsingh2312&show_icons=true&locale=en" alt="rahulsingh2312" /></p>
 
-<br>
+
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rahulsingh2312&label=Profile%20views&color=0e75b6&style=flat" alt="rahulsingh2312" /> </p>
