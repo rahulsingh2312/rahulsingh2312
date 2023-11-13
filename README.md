@@ -64,7 +64,9 @@ And ***a developer*** .
   <table style="margin-top: 30">
   <tr> 
     <td  >
-     ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=j77cre3stokoqsdtgsnhiybt8&unique={true|1|on|yes})
+
+     ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=j77cre3stokoqsdtgsnhiybt8&unique={true})
+
         </td>
     <td  >
       &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulsingh2312&theme=ambient_gradient&show_icons=true&locale=en" alt="rahulsingh2312" />
