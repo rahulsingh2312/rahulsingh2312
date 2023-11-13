@@ -67,7 +67,7 @@ And ***a developer*** .
       <img src="https://spotify-github-profile.vercel.app/api/view?uid=j77cre3stokoqsdtgsnhiybt8&cover_image=true&theme=default&show_offline=false&background_color=9141ac&interchange=false" alt="rahulsingh2312" />
         </td>
     <td  >
-      &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulsingh2312&show_icons=true&locale=en" alt="rahulsingh2312" />
+      &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulsingh2312&theme=ambient_gradient&show_icons=true&locale=en" alt="rahulsingh2312" />
     </td>
   </tr>
 </table>
