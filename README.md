@@ -65,7 +65,7 @@ And ***a developer*** .
   <tr> 
     <td  >
 
-     ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=j77cre3stokoqsdtgsnhiybt8&unique={true})
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=j77cre3stokoqsdtgsnhiybt8&unique={true}" />
 
         </td>
     <td  >
