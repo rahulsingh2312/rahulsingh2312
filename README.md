@@ -64,7 +64,7 @@ And ***a developer*** .
   <table style="margin-top: 30">
   <tr> 
     <td  >
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=j77cre3stokoqsdtgsnhiybt8&cover_image=true&theme=default&show_offline=false&background_color=9141ac&interchange=false" alt="rahulsingh2312" />
+     ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=j77cre3stokoqsdtgsnhiybt8&unique={true|1|on|yes})
         </td>
     <td  >
       &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulsingh2312&theme=ambient_gradient&show_icons=true&locale=en" alt="rahulsingh2312" />
