@@ -6,7 +6,7 @@
 
 - 💬 Talk with me about **why that thing actually exists**
 
- * ">.<" Know about my experiences at [LinkedIn](https://www.linkedin.com/in/rahulsinghhh2312/)
+ * ">.<" Know about my experiences at [Twitter || X ](https://www.x.com/rrahulol)
 
 and
 
